@@ -24,13 +24,13 @@ Each member of your study group needs to update the `index.html` to add:
 
 ## Opening a Pull Request
 
-[Here is a guide from GitHub on how to open a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+[Here is a guide from GitHub on how to open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 
 Ignore anything referring to "forks"!
 
 ## Reviewing a Pull Request
 
-[Here is a guide from GitHub on how to review a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
+[Here is a guide from GitHub on how to review a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
 
 - Leave constructive feedback
 - You can request **neccessary** changes
