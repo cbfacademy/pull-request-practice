@@ -1,13 +1,17 @@
-# Pull Request practice
+# 🤝 Pull Request Practice
 
-## Task
+## 🎯 Task
 
 Each member of your study group needs to update the `index.html` to add:
 
 1. Their name
 1. Something they like
 
-## Instructions
+## 📋 Instructions
+
+Before we get started, one person in your study group will need to fork this repository and then add the other members of the group as contributors. Don't worry if you've never done this before, we have provided a guide on [how to fork a repository](#forking-a-repository) and [how to add contributors](#adding-contributors) below.
+
+Once you have your forked repository and your team is ready, you can follow these steps:
 
 1. Clone this repository onto your machine
 1. Create a branch and call it your name
@@ -18,27 +22,35 @@ Each member of your study group needs to update the `index.html` to add:
 1. Request a review from someone in your study group
 1. Once the reviewer has approved your pull request merge it into the `main` branch
 
-## Cloning a repository from GitHub
+## 🍴 Forking a Repository
 
-[Here is a guide from GitHub on how to clone a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+To fork this repository, simply follow the steps below:
 
-## Opening a Pull Request
+1. Navigate to this repository on GitHub
+1. Click the "Fork" button on the top right of the page
+1. Wait for the repository to be copied to your account
 
-[Here is a guide from GitHub on how to open a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+You now have a copy of this repository in your own GitHub account! 🎉
 
-Ignore anything referring to "forks"!
+## 👥 Adding Contributors
 
-## Reviewing a Pull Request
+After forking the repository, you'll need to add your fellow group members as contributors. Here's how:
 
-[Here is a guide from GitHub on how to review a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
+1. Navigate to your forked repository on GitHub
+1. Click on the "Settings" tab
+1. Select "Manage Access" from the left sidebar
+1. Click on "Invite a collaborator"
+1. Enter your fellow group members' GitHub usernames and click "Add collaborator"
 
-- Leave constructive feedback
-- You can request **neccessary** changes
+Your group members will then receive an email invitation to become contributors to your repository.
 
-## Fixing Conflicts
+## 📚 Helpful Resources
 
-[Here is a guide on fix any conflicts](https://www.mariedrake.com/post/keep-calm-and-carry-on-it-s-just-a-merge-conflict)
+- **Cloning a Repository:** [GitHub Guide](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- **Opening a Pull Request:** [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request). Ignore anything referring to "forks"!
+- **Reviewing a Pull Request:** [GitHub Guide](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/reviewing-proposed-changes-in-a-pull-request)
+- **Fixing Conflicts:** [Merge Conflict Guide](https://www.mariedrake.com/post/keep-calm-and-carry-on-it-s-just-a-merge-conflict)
 
-## Finally
+## 🙋🏾‍♀️ Need Help?
 
-Don't forget to ask for help!
+Don't forget to ask for help! If you encounter any problems or have any questions, don't hesitate to ask in our [GitHub Discussions](https://github.com/orgs/cbfacademy/discussions).
